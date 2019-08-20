@@ -1,0 +1,8 @@
+ 1) When u press any button an exception msg will appear 
+    to remove it either remove the sound code or change the path of the sound file in your laptop. 
+ 
+ 2) if the icons aren't showing then zaki didn't import them to the project.
+
+ 3) the sound button mute and unmute the sound but it takes it a few seconds to play («б«џдне ен «бн яѕе г‘ г‘яб  яжѕ)
+
+Team 2 notes.
